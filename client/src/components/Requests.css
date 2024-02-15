@@ -1,0 +1,13 @@
+.label{
+    color: white;
+  }
+.h2{
+    color: white;
+}
+
+.center{
+    color: white;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
